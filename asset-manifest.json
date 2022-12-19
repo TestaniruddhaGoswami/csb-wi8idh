@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/css/main.0d680edb.chunk.css",
+    "main.js": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/main.0e714574.chunk.js",
+    "main.js.map": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/main.0e714574.chunk.js.map",
+    "runtime-main.js": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/runtime-main.0553fe59.js",
+    "runtime-main.js.map": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/runtime-main.0553fe59.js.map",
+    "static/js/2.5a147158.chunk.js": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/2.5a147158.chunk.js",
+    "static/js/2.5a147158.chunk.js.map": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/2.5a147158.chunk.js.map",
+    "index.html": "https://testaniruddhagoswami.github.io/csb-wi8idh/index.html",
+    "static/css/main.0d680edb.chunk.css.map": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/css/main.0d680edb.chunk.css.map",
+    "static/js/2.5a147158.chunk.js.LICENSE.txt": "https://testaniruddhagoswami.github.io/csb-wi8idh/static/js/2.5a147158.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0553fe59.js",
+    "static/js/2.5a147158.chunk.js",
+    "static/css/main.0d680edb.chunk.css",
+    "static/js/main.0e714574.chunk.js"
+  ]
+}
